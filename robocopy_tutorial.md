@@ -74,6 +74,14 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 &nbsp;<img src="https://github.com/user-attachments/assets/77b3c07a-a396-42d6-b814-618e3bfc5b8e" width="50%" height="50%" />
 </details>
 
+7. Amennyiben az utasításvégrehajtás sikeres volt és sikeresen a célmappába másoltuk a fájlt,
+   nincs más dolgunk, mint beilleszteni az utasítást a létrehozott script.cmd állományba, szövegszerkesztővel.
+
+   Amennyiben sikertelen volt, feltétlenül ellenőrizzük hogy megfelelő jogosultsággal futtattuk-e,
+   és hogy az "echo %USERNAME%" parancs kimenete a mi felhasználónevünk. Ellenőrizzük az idézőjeleket is!
+
+9. Miután beillesztettük a script.cmd-be az utasítást, mentsük el, majd dupla klikkel futtassuk! A fájl átmásolódott.
+
 
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
