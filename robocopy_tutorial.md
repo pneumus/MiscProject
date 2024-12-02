@@ -10,7 +10,6 @@ A szöveges állományt másoljuk át egy Batch Script segítségével!
   
 <b>Megoldás</b>
 1. Létrehozzuk a forrás mappát:
-   ![image](https://github.com/user-attachments/assets/e15dac90-f8f4-4a73-b341-e80edbb33dc6)
-
+<img src="https://github.com/user-attachments/assets/e15dac90-f8f4-4a73-b341-e80edbb33dc6" width="25%" height="25%" />
 
 
