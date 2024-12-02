@@ -45,4 +45,10 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 &nbsp;<img src="https://github.com/user-attachments/assets/be35eccd-13db-4a1e-9410-77a72e64a498" width="50%" height="50%" />
 </details>
 
+5. Szövegszerkesztővel ( Például Notepad vagy Notepad++ ) megnyitjuk a scriptet!
+<details>
+  <summary>Szemléltetés Képernyőképpel</summary>
+&nbsp;<img src="https://github.com/user-attachments/assets/46ae604a-7e0f-4a2a-8c8c-f565be2eafa8" width="50%" height="50%" />
+</details>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
