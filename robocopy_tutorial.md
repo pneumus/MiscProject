@@ -136,11 +136,14 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 8. Pipáljuk be a feladat tulajdonságainak megnyitását, a varázsló bezárása után!
     <details>
       <summary>Szemléltetés Képernyőképpel</summary>
-        &nbsp;<img src="https://github.com/user-attachments/assets/5d95bca3-f1d0-4d9a-8bef-072164a4049c" width="50%" height="50%" />
-        &nbsp;<img src="https://github.com/user-attachments/assets/163d430e-1a84-4811-8411-74be081000de" width="50%" height="50%" />
+        &nbsp;<img src="https://github.com/user-attachments/assets/40be6917-722c-471d-a29a-b1288cd279b0" width="50%" height="50%" />
+        
     </details>
-    
-    
 
+9. Engedélyezzük az adminisztrátor jogokkal való futtatást!
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+      &nbsp;<img src="https://github.com/user-attachments/assets/fea9ef6d-5299-4cb2-aaa8-d26782f502a0" width="50%" height="50%" />
+    </details>
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
