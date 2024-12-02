@@ -36,4 +36,12 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 &nbsp;<img src="https://github.com/user-attachments/assets/5afee23d-c388-4e39-8ade-b30b6057c002" width="50%" height="50%" />
 </details>
 
+4. Létrehozunk egy szöveges fájlt, majd átnevezzük *.txt-ről
+   *.bat vagy *.cmd kiterjesztésűre! Például "script.cmd"!
+   Ha az Operációs Rendszer rákérdez, engedélyezzük az átnevezést.
+<details>
+  <summary>Szemléltetés Képernyőképpel</summary>
+&nbsp;<img src="https://github.com/user-attachments/assets/f3a1cee7-dbf8-465b-b83d-560eab935fae" width="50%" height="50%" />
+</details>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
