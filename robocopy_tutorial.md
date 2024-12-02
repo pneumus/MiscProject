@@ -8,8 +8,8 @@
 Az egyikben helyezzünk el egy tetszőleges szöveges állományt!  
 A szöveges állományt másoljuk át egy Batch Script segítségével!  
 
-<b>Megjegyzés:</b> Engedélyezzük az ismert fájltípusok kiterjesztését,  
-a mappa beállításaiban. Lásd:  
+<b>Megjegyzés:</b> Visszapipáljuk az ismert fájltípusok kiterjesztésének elrejtését,  
+a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt vagy *.cmd )  
 &nbsp;<img src="https://github.com/user-attachments/assets/e7e34aa1-ed3a-40ae-8d8b-dea4be9dc179" width="50%" height="50%" />
 
   
