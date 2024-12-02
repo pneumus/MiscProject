@@ -114,32 +114,32 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
   </details>
   
 5. Állítsuk be a pontos időt, vagy időszakokat a feladatvégrehajtáshoz, majd "Tovább"!
+    
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+        &nbsp;<img src="https://github.com/user-attachments/assets/4d91bf46-ec9d-4f4b-aa6f-e868fa215b1a" width="50%" height="50%" />
+    </details>
 
-  <details>
-    <summary>Szemléltetés Képernyőképpel</summary>
-    &nbsp;<img src="https://github.com/user-attachments/assets/4d91bf46-ec9d-4f4b-aa6f-e868fa215b1a" width="50%" height="50%" />
-  </details>
-  
 6. Tevékenységnek válasszuk ki a "Program Indítása" opciót, majd "Tovább"!
 
-  <details>
-    <summary>Szemléltetés Képernyőképpel</summary>
-    &nbsp;<img src="https://github.com/user-attachments/assets/ba426938-58fa-423d-9881-fcb82569b8a3" width="50%" height="50%" />
-  </details>
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+        &nbsp;<img src="https://github.com/user-attachments/assets/ba426938-58fa-423d-9881-fcb82569b8a3" width="50%" height="50%" />
+    </details>
   
 7. Tallózzuk be az általunk előállított "script.cmd"-t, majd "Tovább"!
-   <details>
-    <summary>Szemléltetés Képernyőképpel</summary>
-   &nbsp;<img src="https://github.com/user-attachments/assets/f367009e-6db5-4f66-b62e-d8a3b0e3b66f" width="50%" height="50%" />
-   </details>
-   
-8. Bla Bla Bla
-  <details>
-    <summary>Szemléltetés Képernyőképpel</summary>
-    &nbsp;<img src="https://github.com/user-attachments/assets/5d95bca3-f1d0-4d9a-8bef-072164a4049c" width="50%" height="50%" />
-    &nbsp;<img src="(https://github.com/user-attachments/assets/163d430e-1a84-4811-8411-74be081000de" width="50%" height="50%" />
-  </details>
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+        &nbsp;<img src="https://github.com/user-attachments/assets/f367009e-6db5-4f66-b62e-d8a3b0e3b66f" width="50%" height="50%" />
+    </details>
 
+8. Pipáljuk be a feladat tulajdonságainak megnyitását, a varázsló bezárása után!
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+        &nbsp;<img src="https://github.com/user-attachments/assets/5d95bca3-f1d0-4d9a-8bef-072164a4049c" width="50%" height="50%" />
+        &nbsp;<img src="(https://github.com/user-attachments/assets/163d430e-1a84-4811-8411-74be081000de" width="50%" height="50%" />
+    </details>
+    
     
 
 </details>
