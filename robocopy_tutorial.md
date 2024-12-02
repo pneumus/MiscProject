@@ -15,7 +15,7 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 &nbsp;<img src="https://github.com/user-attachments/assets/e7e34aa1-ed3a-40ae-8d8b-dea4be9dc179" width="50%" height="50%" />
 </details>
   
-<b>Megoldás</b>
+<b>Megoldás</b>  
 1. Létrehozzuk a forrás mappát ( ahonnan másolunk ):
 <details>
   <summary>Szemléltetés Képernyőképpel</summary>
