@@ -35,5 +35,5 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
   <summary>Szemléltetés Képernyőképpel</summary>
 &nbsp;<img src="https://github.com/user-attachments/assets/5afee23d-c388-4e39-8ade-b30b6057c002" width="50%" height="50%" />
 </details>
-  
 
+&nbsp;&nbsp;&nbsp;&nbsp;
