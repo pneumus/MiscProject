@@ -99,5 +99,43 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
     &nbsp;<img src="https://github.com/user-attachments/assets/df257a90-d1a9-484b-90c5-a6930bbeabf1" width="50%" height="50%" />
   </details>
 
+3. A varázslóval adjunk tetszőleges nevet és leírást a feladatnak, majd klikkeljünk a "Tovább" gombra!
+
+  <details>
+    <summary>Szemléltetés Képernyőképpel</summary>
+    &nbsp;<img src="" width="50%" height="50%" />
+  </details>
+
+4. Válasszuk ki a feladatismétlés ciklusát ( ez esetben egyszeri ), majd "Tovább"!
+   
+  <details>
+    <summary>Szemléltetés Képernyőképpel</summary>
+    &nbsp;<img src="" width="50%" height="50%" />
+  </details>
+  
+5. Állítsuk be a pontos időt, vagy időszakokat a feladatvégrehajtáshoz, majd "Tovább"!
+
+  <details>
+    <summary>Szemléltetés Képernyőképpel</summary>
+    &nbsp;<img src="" width="50%" height="50%" />
+  </details>
+  
+6. Tevékenységnek válasszuk ki a "Program Indítása" opciót, majd "Tovább"!
+
+  <details>
+    <summary>Szemléltetés Képernyőképpel</summary>
+    &nbsp;<img src="" width="50%" height="50%" />
+  </details>
+  
+7. Tallózzuk be az általunk előállított "script.cmd"-t, majd "Tovább"!
+   
+
+    <details>
+      <summary>Szemléltetés Képernyőképpel</summary>
+    
+
+
+      
+
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
