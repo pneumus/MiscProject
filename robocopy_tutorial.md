@@ -8,7 +8,7 @@
 
 <b>Feladat:</b> Hozzunk létre két üres mappát!  
 Az egyikben helyezzünk el egy tetszőleges szöveges állományt!  
-A szöveges állományt másoljuk át egy Batch Script segítségével!  
+A szöveges állományt másoljuk át egy Script segítségével!  
 
 <b>Megjegyzés:</b> Visszapipáljuk az ismert fájltípusok kiterjesztésének elrejtését,  
 a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt vagy *.cmd )  
