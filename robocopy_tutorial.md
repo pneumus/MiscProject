@@ -137,7 +137,7 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
     <details>
       <summary>Szemléltetés Képernyőképpel</summary>
         &nbsp;<img src="https://github.com/user-attachments/assets/5d95bca3-f1d0-4d9a-8bef-072164a4049c" width="50%" height="50%" />
-        &nbsp;<img src="(https://github.com/user-attachments/assets/163d430e-1a84-4811-8411-74be081000de" width="50%" height="50%" />
+        &nbsp;<img src="https://github.com/user-attachments/assets/163d430e-1a84-4811-8411-74be081000de" width="50%" height="50%" />
     </details>
     
     
