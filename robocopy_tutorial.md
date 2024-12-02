@@ -4,7 +4,7 @@
 
 #### 1.1 Fájlok Másolása
 <details>
-  <summary>Leírás</summary>
+  <summary>&emsp;Leírás</summary>
 
 <b>Feladat:</b> Hozzunk létre két üres mappát!  
 Az egyikben helyezzünk el egy tetszőleges szöveges állományt!  
