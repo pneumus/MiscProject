@@ -3,6 +3,8 @@
 ## 1. Fájl Műveletek  
 
 #### 1.1 Fájlok Másolása
+<details>
+  <summary>Leírás</summary>
 
 <b>Feladat:</b> Hozzunk létre két üres mappát!  
 Az egyikben helyezzünk el egy tetszőleges szöveges állományt!  
@@ -51,4 +53,5 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 &nbsp;<img src="https://github.com/user-attachments/assets/46ae604a-7e0f-4a2a-8c8c-f565be2eafa8" width="50%" height="50%" />
 </details>
 
+</details>
 &nbsp;&nbsp;&nbsp;&nbsp;
