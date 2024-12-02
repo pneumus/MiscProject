@@ -83,7 +83,7 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 9. Miután beillesztettük a script.cmd-be az utasítást, mentsük el, majd dupla klikkel futtassuk! A fájl átmásolódott.
 
 ### Extra lépések:
-## A script futtatása feladatütemezővel
+#### A script futtatása feladatütemezővel
 
 
 </details>
