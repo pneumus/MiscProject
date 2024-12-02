@@ -65,7 +65,7 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
    Az általános megoldás érdekében érdemes a hard-coded felhasználónév helyett  
    Pl.: C:\Users\gipszjakab\Desktop
    inkább környezeti változókkal dolgozni  
-   Pl.: C:\Users\%USERNAME%\Desktop
+   Pl.: C:\Users\\%USERNAME%\Desktop
 
    FONTOS! Mindkét paramétert paramétert ( forrás mappa és cél mappa )
    idézőjelekbe kell helyezni, így elkerülhető a space-t tartalmazó mappanevekből fakadó hibás működés!cls
