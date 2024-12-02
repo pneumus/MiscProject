@@ -85,6 +85,13 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
 ### Extra lépések:
 #### A script futtatása feladatütemezővel
 
+1. A <b>Win + R</b> billentyűkombinációt lenyomva,
+   majd a "taskschd.msc" parancsot beírva, futtassuk a feladatütemezőt!
+
+  <details>
+  <summary>Szemléltetés Képernyőképpel</summary>
+  &nbsp;<img src="https://github.com/user-attachments/assets/29fcd6e6-2a9e-4274-9209-2486aed93a4e" width="50%" height="50%" />
+  </details>
 
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
