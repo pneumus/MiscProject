@@ -19,13 +19,15 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
   
 <b>Megoldás</b>  
 
-1. Létrehozzuk a forrás mappát ( ahonnan másolunk ):
+1. Létrehozzuk a forrás mappát ( ahonnan másolunk )!
+   ( Ebben az esetben az Asztalon )
 <details>
   <summary>Szemléltetés Képernyőképpel</summary>
 &nbsp;<img src="https://github.com/user-attachments/assets/e15dac90-f8f4-4a73-b341-e80edbb33dc6" width="50%" height="50%" />
 </details>
 
-2. Létrehozzuk a cél mappát ( ahova másolunk ): 
+2. Létrehozzuk a cél mappát ( ahova másolunk )!
+   ( Ebben az esetben az Asztalon )
 <details>
   <summary>Szemléltetés Képernyőképpel</summary>
 &nbsp;<img src="https://github.com/user-attachments/assets/a900e730-a784-45c0-ae43-44b8206bd0d8" width="50%" height="50%" />
@@ -52,6 +54,26 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
   <summary>Szemléltetés Képernyőképpel</summary>
 &nbsp;<img src="https://github.com/user-attachments/assets/46ae604a-7e0f-4a2a-8c8c-f565be2eafa8" width="50%" height="50%" />
 </details>
+
+6. A <b>robocopy</b> utasítást használjuk a fájl átmásolására!  
+   Az utasítást PowerShell-ben vagy Command Line-ban szerkesztjük,  
+   mert az elérési út manuális beírásakor,  
+   a biztonságos kiegészítéséhez tabulátort használhatunk!
+
+   Az utasítást beírása után, először manuálisan futtatjuk!
+
+   Az általános megoldás érdekében érdemes a hard-coded felhasználónév helyett  
+   Pl.: C:\Users\gipszjakab\Desktop
+   inkább környezeti változókkal dolgozni  
+   Pl.: C:\Users\%USERNAME%\Desktop
+
+   FONTOS! Mindkét paramétert paramétert ( forrás mappa és cél mappa )
+   idézőjelekbe kell helyezni, így elkerülhető a space-t tartalmazó mappanevekből fakadó hibás működés!cls
+<details>
+  <summary>Szemléltetés Képernyőképpel</summary>
+&nbsp;<img src="https://github.com/user-attachments/assets/77b3c07a-a396-42d6-b814-618e3bfc5b8e" width="50%" height="50%" />
+</details>
+
 
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
