@@ -93,5 +93,11 @@ a mappa beállításaiban. Így látszani fognak a kiterjesztések ( Pl. *.txt v
   &nbsp;<img src="https://github.com/user-attachments/assets/29fcd6e6-2a9e-4274-9209-2486aed93a4e" width="50%" height="50%" />
   </details>
 
+2. Klikkeljünk az "Egyszerű Feladat Létrehozása..." gombra a jobboldali menüben!
+   <details>
+  <summary>Szemléltetés Képernyőképpel</summary>
+  &nbsp;<img src="https://github.com/user-attachments/assets/df257a90-d1a9-484b-90c5-a6930bbeabf1" width="50%" height="50%" />
+  </details>
+
 </details>
 &nbsp;&nbsp;&nbsp;&nbsp;
